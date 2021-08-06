@@ -1,0 +1,2 @@
+# IssuesPanelCustomize
+チケットパネルプラグインの改修
