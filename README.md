@@ -6,4 +6,9 @@ Redmineのチケットパネルプラグインの改修
 - ViewCustomize：
 - IssuePanel：
 
+
+## 使い方
+1. JSファイルの内容をViewCustomizeの画面にコピー＆ペーストする
+2. 動作確認を実施する
+
 以上
